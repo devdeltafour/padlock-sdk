@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "padlockSdk"
 include(":app")
+include(":Padlock")
  
